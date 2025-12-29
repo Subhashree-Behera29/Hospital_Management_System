@@ -107,7 +107,7 @@
                 <div class="card paint-card">
                     <div class="card-body text-center">
                         <img src="image/doctor4.jpg" width="250px" height=300px>
-                        <p class="fw-bold fs-5">Dr. Rohan Gupta</p>
+                        <p class="fw-bold fs-5 text-nowraptext-nowrap">Dr. Rakesh Gupta</p>
                     </div>
                 </div>
             </div>
@@ -115,7 +115,7 @@
                 <div class="card paint-card">
                     <div class="card-body text-center">
                         <img src="image/doctor3.jpg" width="250px" height=300px>
-                        <p class="fw-bold fs-5">Dr. Priya Verma</p>
+                        <p class="fw-bold fs-5 text-nowraptext-nowrap">Dr. Priya Verma</p>
                     </div>
                 </div>
             </div>
@@ -123,15 +123,15 @@
                 <div class="card paint-card">
                     <div class="card-body text-center">
                         <img src="image/docto1.jpg" width="250px" height=300px>
-                        <p class="fw-bold fs-5">Dr. Riya</p>
+                        <p class="fw-bold fs-5 text-nowraptext-nowrap">Dr. Subhashree Behera</p>
                     </div>
                 </div>
             </div>
-            <div class="col-md-1">
+            <div class="col-md-3">
                 <div class="card paint-card">
                     <div class="card-body text-center">
                         <img src="image/doctor2.jpg" width="250px" height=300px>
-                        <p class="fw-bold fs-5">Dr. Neha</p>
+                        <p class="fw-bold fs-5 text-nowraptext-nowrap">Dr. Neha Malhotra</p>
                     </div>
                 </div>
             </div>
