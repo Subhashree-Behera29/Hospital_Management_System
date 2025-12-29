@@ -127,7 +127,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-3">
+            <div class="col-md-1">
                 <div class="card paint-card">
                     <div class="card-body text-center">
                         <img src="image/doctor2.jpg" width="250px" height=300px>
