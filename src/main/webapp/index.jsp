@@ -107,7 +107,7 @@
                 <div class="card paint-card">
                     <div class="card-body text-center">
                         <img src="image/doctor4.jpg" width="250px" height=300px>
-                        <p class="fw-bold fs-5">Dr. Rakesh Gupta</p>
+                        <p class="fw-bold fs-5">Dr. Rohan Gupta</p>
                     </div>
                 </div>
             </div>
@@ -123,7 +123,7 @@
                 <div class="card paint-card">
                     <div class="card-body text-center">
                         <img src="image/docto1.jpg" width="250px" height=300px>
-                        <p class="fw-bold fs-5">Dr. Subhashree Behera</p>
+                        <p class="fw-bold fs-5">Dr. Riya</p>
                     </div>
                 </div>
             </div>
