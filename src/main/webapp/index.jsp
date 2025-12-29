@@ -131,7 +131,7 @@
                 <div class="card paint-card">
                     <div class="card-body text-center">
                         <img src="image/doctor2.jpg" width="250px" height=300px>
-                        <p class="fw-bold fs-5">Dr. Neha Malhotra</p>
+                        <p class="fw-bold fs-5">Dr. Neha</p>
                     </div>
                 </div>
             </div>
